@@ -1,14 +1,18 @@
-# TensorFlow_C1
+# __Tensorflow__
 
-- 01 Housing Prices
-- 02 Computer Vision fashion MNIST
-- 03 Callbacks
-- 04 Handwriting Recognition
-- 05 Improving The CV Accuracy Using Convolution
-- 06 Experiment with filters and pools
-- 07 Improve_MNIST_with_convolutions
-- 08 Horse Or human Classifier
-- 09 Classifier Happy Or Sad Images
+<img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" height='100' width='100'>
+
+|__Course 1: Introduction to TensorFlow for AI, ML and DL__                                                                                                                     |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [01 Housing Prices ](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/01_Housing_Prices.ipynb)                                                         |
+| [02 Computer Vision fashion MNIST](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/02_Computer__Vision_fashion_MNIST.ipynb)                           |
+| [03 Callbacks](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/03_callbacks.ipynb)                                                                    |
+| [04 Handwriting Recognition](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/04_Handwriting_Recognition.ipynb)                                        |
+| [05 Improving The CV Accuracy Using Convolution](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/05_Improving_The_CV_Accuracy_Using_Convolution.ipynb)|
+| [06 Experiment with filters and pools](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/06_Experiment_with_filters_and_pools.ipynb)                    |
+| [07 Improve_MNIST_with_convolutions](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/06_Experiment_with_filters_and_pools.ipynb)                      |
+| [08 Horse Or human Classifier](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/08_Horse_Or_human_Classifier.ipynb)                                    |
+| [09 Classifier Happy Or Sad Images](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/09_Classifier_Happy_Or_Sad_Images.ipynb)                          |
 
 - Connect with me:
 
