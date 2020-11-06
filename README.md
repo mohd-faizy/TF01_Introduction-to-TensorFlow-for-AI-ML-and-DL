@@ -3,8 +3,22 @@
 
 <img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" height='100' width='100'>
 
+TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.
 
-### __Hello World in TensorFlow__
+TensorFlow was originally developed by researchers and engineers working on the Google Brain team within Google's Machine Intelligence Research organization to conduct machine learning and deep neural networks research. The system is general enough to be applicable in a wide variety of other domains, as well.
+
+### __Why Tensorflow?__
+
+- __Easy model building:__
+Build and train ML models easily using intuitive high-level APIs like Keras with eager execution, which makes for immediate model iteration and easy debugging.
+
+- __Robust ML production anywhere:__
+Easily train and deploy models in the cloud, on-prem, in the browser, or on-device no matter what language you use.
+
+- __Powerful experimentation for research:__
+A simple and flexible architecture to take new ideas from concept to code, to state-of-the-art models, and to publication faster.
+
+### __“Hello World” of machine learning__
 ``` python
 
 import tensorflow as tf
@@ -12,16 +26,30 @@ import numpy as np
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense
 
-model = Sequential([Dense(units=1, input_shape=[1])])
+l0 = Dense(units=1, input_shape=[1])
+model = Sequential([l0])
 model.compile(optimizer='sgd', loss='mean_squared_error')
 
 xs = np.array([-1.0, 0.0, 1.0, 2.0, 3.0, 4.0], dtype=float)
 ys = np.array([-3.0, -1.0, 1.0, 3.0, 5.0, 7.0], dtype=float)
 
 model.fit(xs, ys, epochs=500)
+
 print(model.predict([10.0]))
+print("Here is what I learned: {}".format(l0.get_weights()))
 ```
 
+The output was as follows:
+```
+Here is what I learned: [array([[1.9967953]], dtype=float32),
+array([-0.9900647], dtype=float32)]
+```
+Thus, the learned relationship between X and Y was Y = 1.9967953X – 0.9900647
+
+
+---
+
+<img src="https://github.com/mohd-faizy/__TensorFlow_Developer__/blob/master/Tensorflow_Dev_png/01.png">
 
 |__Course 1: Introduction to TensorFlow for AI, ML and DL__                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
