@@ -1,10 +1,14 @@
 # __Tensorflow__
 
-<img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" height='100' width='100'>
+<img src="https://github.com/mohd-faizy/01T_Introduction-to-TensorFlow-for-AI-ML-and-DL/blob/master/Tensorflow_Dev_png/01_head.jpg">
+
+
 
 TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.
 
 TensorFlow was originally developed by researchers and engineers working on the Google Brain team within Google's Machine Intelligence Research organization to conduct machine learning and deep neural networks research. The system is general enough to be applicable in a wide variety of other domains, as well.
+
+<img src="https://pbs.twimg.com/profile_images/1103339571977248768/FtFnqC38_400x400.png" height='100' width='100'>
 
 ### __Why Tensorflow?__
 
@@ -48,7 +52,6 @@ Thus, the learned relationship between X and Y was Y = 1.9967953X – 0.9900647
 
 ---
 
-<img src="https://github.com/mohd-faizy/__TensorFlow_Developer__/blob/master/Tensorflow_Dev_png/01.png">
 
 |__Course 1: Introduction to TensorFlow for AI, ML and DL__                                                                                                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
