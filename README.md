@@ -65,8 +65,8 @@ Thus, the learned relationship between X and Y was Y = 1.9967953X – 0.9900647
 | [08 Horse Or human Classifier](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/08_Horse_Or_human_Classifier.ipynb)                                    |
 | [09 Classifier Happy Or Sad Images](https://github.com/mohd-faizy/TensorFlow_Developer_AI_ML_DL/blob/master/09_Classifier_Happy_Or_Sad_Images.ipynb)                          |
 
-- Connect with me:
 
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
